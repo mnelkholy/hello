@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_restricted_caller_access">
+    <sys_restricted_caller_access action="INSERT_OR_UPDATE">
+        <operation>read</operation>
+        <source>a9f8c4df3b0113003585802b13efc47e</source>
+        <source_scope display_value="MasterApp">5dd91221db2caf009fa751035e96198e</source_scope>
+        <source_table>wf_activity</source_table>
+        <source_type>4</source_type>
+        <status>0</status>
+        <sys_class_name>sys_restricted_caller_access</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-09 12:59:03</sys_created_on>
+        <sys_id>16424ae1db852f80d34bffa31d96191d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>532da270dad21200a4656ede91f9331e</sys_name>
+        <sys_package display_value="MasterApp" source="x_snc_masterapp">5dd91221db2caf009fa751035e96198e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MasterApp">5dd91221db2caf009fa751035e96198e</sys_scope>
+        <sys_update_name>sys_restricted_caller_access_16424ae1db852f80d34bffa31d96191d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-09 12:59:03</sys_updated_on>
+        <target name="sn_hr_le_activity_set" target_table="sys_db_object">c3b60edfdb041b00816bffb41d96195b</target>
+        <target_scope display_value="Human Resources: Lifecycle Events">532da270dad21200a4656ede91f9331e</target_scope>
+        <target_table>sys_db_object</target_table>
+        <target_type>1</target_type>
+    </sys_restricted_caller_access>
+</record_update>

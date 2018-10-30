@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="a4228751dbc9eb80d34bffa31d961933" sys_domain="global" table="sn_hr_core_case_talent_management" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>harry</sys_created_by>
+            <sys_created_on>2018-10-08 22:59:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a0228751dbc9eb80d34bffa31d961939</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sn_hr_core_case_talent_management" name="sn_hr_core_case_talent_management" sys_domain="global" view="ec2daaf9d7523100a9ad1e173e24d4ea">a4228751dbc9eb80d34bffa31d961933</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="sn_hr_core_case_talent_management" sys_domain="global" view="ec2daaf9d7523100a9ad1e173e24d4ea">20228751dbc9eb80d34bffa31d961936</sys_ui_section>
+            <sys_updated_by>harry</sys_updated_by>
+            <sys_updated_on>2018-10-08 22:59:32</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>sn_hr_core_case_talent_management</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>harry</sys_created_by>
+            <sys_created_on>2018-10-08 22:59:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a4228751dbc9eb80d34bffa31d961933</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sn_hr_core_case_talent_management</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="MasterApp" source="x_snc_masterapp">5dd91221db2caf009fa751035e96198e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="MasterApp">5dd91221db2caf009fa751035e96198e</sys_scope>
+            <sys_update_name>sys_ui_form_sections_a4228751dbc9eb80d34bffa31d961933</sys_update_name>
+            <sys_updated_by>harry</sys_updated_by>
+            <sys_updated_on>2018-10-08 22:59:32</sys_updated_on>
+            <sys_user/>
+            <view display_value="Service Portal" name="sp">ec2daaf9d7523100a9ad1e173e24d4ea</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_rest_message_fn_param_defs">
+    <sys_rest_message_fn_param_defs action="INSERT_OR_UPDATE">
+        <name/>
+        <order>100</order>
+        <rest_message_function display_value="execute">795507eadbc1ef809fa751035e961993</rest_message_function>
+        <sys_class_name>sys_rest_message_fn_param_defs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-12 20:26:53</sys_created_on>
+        <sys_id>bc6547eadbc1ef809fa751035e96190b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="MasterApp" source="x_snc_masterapp">5dd91221db2caf009fa751035e96198e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MasterApp">5dd91221db2caf009fa751035e96198e</sys_scope>
+        <sys_update_name>sys_rest_message_fn_param_defs_bc6547eadbc1ef809fa751035e96190b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-12 20:26:53</sys_updated_on>
+        <value/>
+    </sys_rest_message_fn_param_defs>
+</record_update>

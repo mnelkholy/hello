@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_rest_message_fn_param_defs">
+    <sys_rest_message_fn_param_defs action="INSERT_OR_UPDATE">
+        <name>domain</name>
+        <order>100</order>
+        <rest_message_function display_value="Default GET">5c21cec8db6de7003d31892a4896198b</rest_message_function>
+        <sys_class_name>sys_rest_message_fn_param_defs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-29 17:35:16</sys_created_on>
+        <sys_id>2a31460cdb6de7003d31892a48961945</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>domain</sys_name>
+        <sys_package display_value="MasterApp" source="x_snc_masterapp">5dd91221db2caf009fa751035e96198e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MasterApp">5dd91221db2caf009fa751035e96198e</sys_scope>
+        <sys_update_name>sys_rest_message_fn_param_defs_2a31460cdb6de7003d31892a48961945</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-29 17:35:16</sys_updated_on>
+        <value>${domain_name}</value>
+    </sys_rest_message_fn_param_defs>
+</record_update>
